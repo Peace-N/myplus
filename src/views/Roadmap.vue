@@ -4,7 +4,7 @@
             fluid
     >
         <v-row justify="center" align="center">
-                <iframe src="http://sheconquerssa.co.za/roadmaps/" width="100%" height="800" frameborder="0" allowtransparency="true"  />
+                <iframe src="https://sheconquerssa.co.za/roadmaps/" width="100%" height="800" frameborder="0" allowtransparency="true"  />
         </v-row>
     </v-container>
 </template>
